@@ -43,7 +43,7 @@ const memories: Memory[] = [
     id: "4",
     title: "Nossos Sonhos",
     description: "Planejando o futuro juntos",
-    video: "/videos/nossos-sonhos.mp4",
+    video: "/images/Estudiosos.mp4",
     type: "video",
   },
 ]
