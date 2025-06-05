@@ -22,35 +22,35 @@ const playlist: Song[] = [
     title: "Maria",
     artist: "Matuê",
     duration: "3:45",
-    audioPath: "/public/music/Matuê - Maria.mp3", // ← SUBSTITUA PELO CAMINHO DO SEU ARQUIVO
+    audioPath: "/music/Matue-Maria.mp3", // ← SUBSTITUA PELO CAMINHO DO SEU ARQUIVO
   },
   {
     id: 2,
     title: "Frio na Barriga",
     artist: "Kraw",
     duration: "4:12",
-    audioPath: "/public/music/frio-na-barriga-kraw.mp3", // ← SUBSTITUA PELO CAMINHO DO SEU ARQUIVO
+    audioPath: "/music/Krawk-Frio-na-Barriga.mp3", // ← SUBSTITUA PELO CAMINHO DO SEU ARQUIVO
   },
   {
     id: 3,
     title: "Cold Heart",
     artist: "Elton John & Dua Lipa",
     duration: "3:22",
-    audioPath: "/public/music/cold-heart-elton-dua.mp3", // ← SUBSTITUA PELO CAMINHO DO SEU ARQUIVO
+    audioPath: "/music/Elton-John-Dua-Lipa-Cold-Heart.mp3", // ← SUBSTITUA PELO CAMINHO DO SEU ARQUIVO
   },
   {
     id: 4,
     title: "ILY",
     artist: "Surf Mesa feat. Emilee",
     duration: "2:58",
-    audioPath: "/public/music/ily-surf-mesa.mp3", // ← SUBSTITUA PELO CAMINHO DO SEU ARQUIVO
+    audioPath: "/music/Surf-Mesa-ily.mp3", // ← SUBSTITUA PELO CAMINHO DO SEU ARQUIVO
   },
   {
     id: 5,
     title: "Beautiful Things",
     artist: "Benson Boone",
     duration: "3:08",
-    audioPath: "/public/music/beautiful-things-benson.mp3", // ← SUBSTITUA PELO CAMINHO DO SEU ARQUIVO
+    audioPath: "/music/Benson-Boone-Beautiful-Things.mp3", // ← SUBSTITUA PELO CAMINHO DO SEU ARQUIVO
   },
 ]
 
